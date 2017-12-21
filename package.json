@@ -1,0 +1,17 @@
+{
+  "name": "payrollstatusim",
+  "version": "1.0.0",
+  "description": "Payroll for StatusIm",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cory VanHooser",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
